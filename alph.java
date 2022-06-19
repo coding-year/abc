@@ -1,4 +1,4 @@
-class alph
+ alph
 {
 public static void main(String args[])
 {
