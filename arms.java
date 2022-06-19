@@ -1,4 +1,4 @@
-import java.util.*;
+ java.util.*;
 class arms
 {
 public static void main(String arg[])
